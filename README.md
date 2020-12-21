@@ -1,9 +1,9 @@
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-codes&show_icons=true&theme=dracula"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-codes&show_icons=true&theme=midnight-purple"> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-codes&layout=compact&theme=dracula"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-codes&layout=compact&theme=midnight-purple"> 
 </p>
 
 <p align="center">
