@@ -1,9 +1,9 @@
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eusousalvi&show_icons=true&theme=midnight-purple"> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eusousalvi&show_icons=true&theme=midnight-purple"> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusousalvi&layout=compact&theme=midnight-purple"> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eusousalvi&layout=compact&theme=midnight-purple"> 
 </p>
 
 <p align="center">
